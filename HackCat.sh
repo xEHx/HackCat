@@ -50,7 +50,7 @@ echo $me "               HackCat TEAM "
 echo
 echo $me "CAPTAIN       : xEHx"
 echo $me "Co-Captain    : xGGx"
-echo $me"Member         : -PhantomThief"
+echo $me "Member        : -PhantomThief"
 echo $me "                -N00B"
 echo $me "Website       : https://h4ckcat.000webhostapp.com"
 echo $me "___________________________________"
