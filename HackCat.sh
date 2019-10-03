@@ -49,7 +49,7 @@ read -p"---->>>" nick;
 figlet $nick
 echo WELCOME $nick "!"
 echo "Please choose script!"
-echo "1.xEHx Script"
+echo "1.xEHx Tools"
 read nomor
 if [ $nomor = "1" ]; then
 clear
