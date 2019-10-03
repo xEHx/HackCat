@@ -43,28 +43,28 @@ echo $me"    ****************               "
 sleep 0.03
 echo $me"      ************                 "
 sleep 1
-figlet $me HackCat
+figlet HackCat
 
 echo $me "___________________________________"
 echo $me "               HackCat TEAM "
 echo
 echo $me "CAPTAIN       : xEHx"
 echo $me "Co-Captain    : xGGx"
-echo $me"Member        : -PhantomThief"
+echo $me"Member         : -PhantomThief"
 echo $me "                -N00B"
 echo $me "Website       : https://h4ckcat.000webhostapp.com"
 echo $me "___________________________________"
 echo $me "WELCOME TO HackCat !WHAT IS YOUR NAME?"
 read -p"---->>>" nick;
-figlet $me $nick
-echo $me WELCOME $nick "!"
+figlet $nick
+echo WELCOME $nick "!"
 echo $me "Please choose script!"
 echo $me "1.xEHx Tools"
 read nomor
 if [ $nomor = "1" ]; then
 clear
 sleep 1
-figlet $me xEHx Script
+figlet xEHx Script
 sleep 1
 echo $me "Loading xEHx Script...."
 git clone https://github.com/xEHx/Tools-v1
