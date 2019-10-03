@@ -40,9 +40,9 @@ echo "               HackCat TEAM "
 echo
 echo "CAPTAIN       : xEHx"
 echo "Co-Captain    : xGGx"
-echo "Member       : -PhantomThief"
-echo "               -N00B"
-echo "Website          : https://h4ckcat.000webhostapp.com"
+echo "Member        : -PhantomThief"
+echo "                -N00B"
+echo "Website       : https://h4ckcat.000webhostapp.com"
 echo "___________________________________"
 echo "WELCOME TO HackCat !WHAT IS YOUR NAME?"
 read -p"---->>>" nick;
